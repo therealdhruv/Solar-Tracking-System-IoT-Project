@@ -5,7 +5,7 @@
 #define LDR1 A0
 #define LDR2 A1
 
-// Define the error value. You can change it as you like
+// Define the error value. 
 #define ERROR_THRESHOLD 10
 
 // Starting point of the servo motor
